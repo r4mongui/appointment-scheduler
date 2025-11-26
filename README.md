@@ -8,7 +8,7 @@ Node.js + Express + TypeScript.
 TECNOLOGIAS: - Node.js - Express - TypeScript - SQL.js - ts-node-dev
 
 INSTALAÇÃO: 
-1. git clone https://github.com/SEU_USUARIO/appointment-scheduler.git 
+1. git clone https://github.com/r4mongui/appointment-scheduler.git
 2. cd appointment-scheduler 
 3. npm install 
 4. npm run dev
